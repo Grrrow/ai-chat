@@ -1,12 +1,11 @@
 const axios = require('axios');
-const OPENAI_API_KEY = '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';
 
 async function translateMessage(locale, message) {
   const response = await axios({
     method: 'POST',
     url: 'https://api.openai.com/v1/chat/completions',
     headers: {
-      'Authorization': `Bearer ${OPENAI_API_KEY}`
+      'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`
     },
     data: {
       model: 'gpt-3.5-turbo',
