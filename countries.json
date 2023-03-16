@@ -1,0 +1,82 @@
+{
+  "CN": {
+    "name": "China",
+    "locale": ["zh-CN"]
+  },
+  "IN": {
+    "name": "India",
+    "locale": ["hi-IN", "en-IN"]
+  },
+  "US": {
+    "name": "United States",
+    "locale": ["en-US", "es-US"]
+  },
+  "ID": {
+    "name": "Indonesia",
+    "locale": ["id-ID"]
+  },
+  "BR": {
+    "name": "Brazil",
+    "locale": ["pt-BR"]
+  },
+  "PK": {
+    "name": "Pakistan",
+    "locale": ["ur-PK", "en-PK"]
+  },
+  "NG": {
+    "name": "Nigeria",
+    "locale": ["en-NG"]
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "locale": ["bn-BD", "en-BD"]
+  },
+  "RU": {
+    "name": "Russia",
+    "locale": ["ru-RU"]
+  },
+  "JP": {
+    "name": "Japan",
+    "locale": ["ja-JP"]
+  },
+  "MX": {
+    "name": "Mexico",
+    "locale": ["es-MX"]
+  },
+  "ES": {
+    "name": "Spain",
+    "locale": ["es-ES"]
+  },
+  "CO": {
+    "name": "Colombia",
+    "locale": ["es-CO"]
+  },
+  "AR": {
+    "name": "Argentina",
+    "locale": ["es-AR"]
+  },
+  "PE": {
+    "name": "Peru",
+    "locale": ["es-PE"]
+  },
+  "VE": {
+    "name": "Venezuela",
+    "locale": ["es-VE"]
+  },
+  "CL": {
+    "name": "Chile",
+    "locale": ["es-CL"]
+  },
+  "EC": {
+    "name": "Ecuador",
+    "locale": ["es-EC"]
+  },
+  "GT": {
+    "name": "Guatemala",
+    "locale": ["es-GT"]
+  },
+  "CU": {
+    "name": "Cuba",
+    "locale": ["es-CU"]
+  }
+}
