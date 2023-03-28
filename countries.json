@@ -45,7 +45,7 @@
   },
   "ES": {
     "name": "Spain",
-    "locale": ["es-ES"]
+    "locale": ["es-ES", "ca-ES", "gl-ES", "eu-ES"]
   },
   "CO": {
     "name": "Colombia",
